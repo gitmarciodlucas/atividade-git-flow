@@ -1,5 +1,6 @@
-Sistema de Cadastro de Clientes
+Sistema de Cadastro de Clientes e Produtos
 
 Funcionalidades:
 - Cadastro de clientes
 - Listagem de clientes
+- Cadastro de produtos
