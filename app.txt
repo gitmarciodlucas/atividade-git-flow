@@ -3,3 +3,4 @@ Sistema de Cadastro de Clientes
 Funcionalidades:
 - Cadastro de clientes
 - Listagem de clientes
+- Cadastro de produtos
